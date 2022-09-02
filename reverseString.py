@@ -12,5 +12,5 @@ def reverseString (string):
         revString.append(lastLetter)
         #Store the new length of the string
         newLength = len(string)
-    #Return the reversed string
+    #Return the reversed string as a list
     return(revString)
