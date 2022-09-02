@@ -1,1 +1,1 @@
-# This repository holds my solution to multiple coding challenges
+# This repository holds my solution to multiple coding challenges.
